@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Workspace",
+  "description": "A professional AI workspace for multimodal interaction, document analysis, and content generation using Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
